@@ -1,0 +1,19 @@
+{
+  "name": "Ruang — Planner Pelajar",
+  "short_name": "Ruang",
+  "description": "Planner sekolah personal yang rapi dan bisa digunakan offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f5fa",
+  "theme_color": "#6958e8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
